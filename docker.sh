@@ -6,4 +6,4 @@
 # sudo usermod -a -G docker &{USER}
 
 sudo apt install docker.io
-sudo usermode -aG docker &{USER}
+sudo usermode -aG docker ${USER}
